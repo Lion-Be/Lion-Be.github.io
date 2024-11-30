@@ -23,7 +23,7 @@ Formerly, I have been working as a data science consultant at a large German ban
 </font>
 </font> 
 
-<hr style="height:5pt; visibility:hidden;" />
+<br style="line-height:0.5;">
 
 <font color="DeepPink">
 <strong>October 2023 </strong> </font> **My article "Bayesian Nested Analysis" with Ingo Rohlfing got accepted for publication in "Sociological Methods and Resarch"**. In the article, we show how Bayesian statistical methods can aid multi-method research in the social sciences.
