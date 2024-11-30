@@ -26,6 +26,9 @@ Formerly, I have been working as a data science consultant at a large German ban
 <hr style="height:5pt; visibility:hidden;" />
 
 <font color="DeepPink">
+<strong>October 2023 </strong> </font> **My article *Bayesian Nested Analysis* with Ingo Rohlfing got published in *Sociological Methods and Resarch* **. In the article, we show how Bayesian statistical methods can aid multi-method research in the social sciences.
+<br>
+<font color="DeepPink">
 <strong>March 2024 </strong> </font> **The career portal for mathematics, IT, science and technology (MINT) graduates Hi:Tech Campus has published an [interview]([https://www.soprasteria.de/](https://hitech-campus.de/it-beratung/data-scientists-anti-financial-crime-sopra-steria/)) with me** about my role as a data science consultant in anti financial crime (in German).
 <br>
 <font color="DeepPink">
