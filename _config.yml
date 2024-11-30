@@ -22,9 +22,9 @@ repository               : "Lion-Be/Lion-Be.github.io"
 author:
   # Biographic information
   avatar           : "pic_LB_02.png"
-  name             : "Contact Information"
+  name             : "Bio"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Senior Data Scientist in Anti-Financial Crime"
   location         : "Frankfurt, Germany"
   employer         : "PhD University of Mannheim"
   uri              : # URL
