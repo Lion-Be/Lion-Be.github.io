@@ -21,7 +21,7 @@ repository               : "Lion-Be/Lion-Be.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic_LB_02.png"
+  avatar           : "profile_pic.png"
   name             : "Dr. Lion Behrens"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist in Anti-Financial Crime"
