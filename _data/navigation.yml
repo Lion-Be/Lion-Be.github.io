@@ -11,10 +11,7 @@ main:
 
   - title: "Fairness in ML"
     url: /fairness/
-    
-  - title: "Introduction to R"
-    url: /publications/  
-    
+      
   - title: "Publications"
     url: /publications/
 
