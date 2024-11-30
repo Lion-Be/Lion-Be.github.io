@@ -10,7 +10,7 @@ main:
     url: /year-archive/
 
   - title: "Fairness in ML"
-    url: /publications/
+    url: /fairness_ML/
     
   - title: "Introduction to R"
     url: /publications/  
