@@ -8,15 +8,15 @@ main:
 
   - title: "Blog"
     url: /year-archive/
+
+  - title: "Fairness in ML"
+    url: /publications/
+    
+  - title: "Introduction to R"
+    url: /publications/  
     
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-            
-  - title: "CV"
-    url: /files/CV_lb.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/           
