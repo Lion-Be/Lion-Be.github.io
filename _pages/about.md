@@ -19,7 +19,6 @@ This is the front page of a website that is powered by the [Academic Pages templ
 </font>
 </font>
 
+<font color="DeepPink">December 2023 </font> **I taught the workshop "AI in Anti Financial Crime" at [Sopra Steria](https://www.soprasteria.de/)'s Graduate Program of Risk, Finance & Compliance in Hamburg**
 <br>
-<font color="DeepPink">December 2023 </font> **I taught the workshop "AI in Anti Financial Crime" at Sopra Steria's Graduate Program of Risk, Finance & Compliance.**
-<br>
-I introduced a group of FinCrime professionals to the landscape of different AI approaches, discussed their possibility to tackle every-day problems within Anti Financial Crime Operations, and highlighted a hands-on use case on machine learning-based customer segmentation in Transaction Monitoring. 
+The workshop introduced a group of FinCrime professionals to the landscape of different AI approaches, discussed their possibility to tackle every-day problems within Anti Financial Crime Operations, and highlighted a hands-on use case on machine learning-based customer segmentation in Transaction Monitoring. 
