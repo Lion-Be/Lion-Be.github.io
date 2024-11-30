@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Fairness in Machine Learning"
-permalink: /fairness/
+permalink: /_pages/fairness.md
 author_profile: true
 ---
 
