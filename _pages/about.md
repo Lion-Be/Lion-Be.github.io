@@ -20,7 +20,7 @@ Formerly, I have been working as a data science consultant at a large German ban
 <font size="6">  
 <font color="DeepPink">
 <strong>News</strong> 
-<br style="line-height:0.25;">
+<br style="line-height:0.5;">
 </font>
 </font> 
 <font color="DeepPink">
