@@ -15,10 +15,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 <font size="6">  
 <font color="DeepPink">
-<strong>News</strong>
+<strong>News</strong> \n
 </font>
 </font> 
-
 
 <font color="DeepPink">
 <strong>December 2023 </strong> 
