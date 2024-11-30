@@ -6,7 +6,7 @@
 
 main:
 
-  - title: "Blog"
+  - title: "Data Science Insights Blog"
     url: /year-archive/
 
   - title: "Fairness in ML"
