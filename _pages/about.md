@@ -19,9 +19,11 @@ Formerly, I have been working as a data science consultant at a large German ban
 
 <font size="6">  
 <font color="DeepPink">
-<strong>News</strong> \n
+<strong>News</strong> 
 </font>
 </font> 
+
+
 
 <font color="DeepPink">
 <strong>December 2023 </strong> 
