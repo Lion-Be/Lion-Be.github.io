@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "pic_LB_02.jpg"
-  name             : "Bio"
+  name             : "Contact Information"
   pronouns         : # example: "she/her"  
-  bio              : "Political Science Graduate turned Data Scientist | Fairness in Machine Learning - Explainable AI - Causal Machine Learning"
+  bio              : ""
   location         : "Frankfurt, Germany"
   employer         : "PhD University of Mannheim"
   uri              : # URL
