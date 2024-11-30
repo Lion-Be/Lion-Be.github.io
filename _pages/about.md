@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <font size="5">  
-<font color="red">
+<font color="DeepPink">
 Welcome to my website!
 </font>
 </font>
