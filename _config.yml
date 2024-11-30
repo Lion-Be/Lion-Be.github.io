@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lion Behrens"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Political Science Graduate turned Data Scientist - Fairness in Machine Learning | Explainable AI | Causal Machine Learning"
+  location         : "Frankfurt, Germany"
+  employer         : "PhD University of Mannheim"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lion.behrens@mail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Lion-Be"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Lion-Be
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
