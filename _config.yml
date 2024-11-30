@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Lion Behrens"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lion Behrens"
 description              : &description "Description"
@@ -22,7 +22,7 @@ repository               : "Lion-Be/Lion-Be.github.io"
 author:
   # Biographic information
   avatar           : "pic_LB_02.png"
-  name             : "Bio"
+  name             : "Dr. Lion Behrens"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist in Anti-Financial Crime"
   location         : "Frankfurt, Germany"
