@@ -22,11 +22,10 @@ Formerly, I have been working as a data science consultant at a large German ban
 <strong>News</strong> 
 </font>
 </font> 
-
-<font color="White">linebreak</font>
-
+<br>
 <font color="DeepPink">
-<strong>December 2023 </strong> 
-</font> **I taught the workshop "AI in Anti Financial Crime" at [Sopra Steria](https://www.soprasteria.de/)'s Graduate Program of Risk, Finance & Compliance in Hamburg**
-
+<strong>March 2024 </strong> </font> **The career portal for mathematics, IT, science and technology (MINT) graduates Hi:Tech Campus has published an [interview]([https://www.soprasteria.de/](https://hitech-campus.de/it-beratung/data-scientists-anti-financial-crime-sopra-steria/)) with me about my role as a data science consultant in anti financial crime (in German).**
+<br>
+<font color="DeepPink">
+<strong>December 2023 </strong> </font> **I taught the workshop "AI in Anti Financial Crime" at [Sopra Steria](https://www.soprasteria.de/)'s Graduate Program of Risk, Finance & Compliance in Hamburg**
 The workshop introduced a group of FinCrime professionals to the landscape of different AI approaches, discussed their possibility to tackle every-day problems within Anti Financial Crime Operations, and highlighted a hands-on use case on machine learning-based customer segmentation in Transaction Monitoring. 
