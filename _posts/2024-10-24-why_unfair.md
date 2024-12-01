@@ -48,6 +48,8 @@ However, as a large strand of literature has outlined, there are manifold reason
 
 Formally, this can be expressed as:
 
+<img src="/images/sample_selection_formula.png" style="max-width: 500px; width: 80%; float: left;">
+
 where P(D) is the probability of an individual to be observed in our data, y* is the latent outcome an individual would observe once it is part of the data and x refers to the sensitive and protected attribute.
 
 <strong>Example: Credit approval.</strong> Imagine a certain bank which was in the news for being exposed of racial discriminiation in credit approval rates in the past. Well-informed high-income individuals from a marginalized group with a lot of optionality might avoid that bank and self-select out of being observed in the data – by simply approaching other credit institutes that seem more trustworthy to them. Badly-informed low-income individuals from the same marginalized group do either not possess this information or do not have the optionality to freely choose their credit house and hence still appear unfiltered in our data. Hence, even when the decision-making across actual applicants is completely fair now, marginalized individuals with low chances of a positive outcome are systematically observed more frequently than marginalized individuals with high chances of a positive outcome – a pattern that is picked up by our machine learning model.
