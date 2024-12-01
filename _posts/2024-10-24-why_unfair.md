@@ -5,7 +5,7 @@ permalink: /posts/2024-10-24-why_unfair/
 tags:
   - fairness in machine learning
   - algorithmic bias
-  - discrimination
+  - discrimination 
 ---
 
 <img src="/images/blog_why_unfair.png" style="max-width: 500px; width: 100%; float: left; margin-right: 15px; margin-bottom: 15px;"> Algorithmic bias is an inherent challenge in machine learning models, particularly in high-stakes applications like credit approval, where fairness is critical. In this blog post, I discuss four key sources of bias in AI models: (i) bias in human decisions, (ii) proxy attributes, (iii) sample selection bias and (iv) algorithmic objectives. Each source of bias is accompanied by an empirical example from model-based credit approval.
