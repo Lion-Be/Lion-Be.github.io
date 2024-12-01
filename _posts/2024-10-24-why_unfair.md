@@ -48,7 +48,7 @@ However, as a large strand of literature has outlined, there are manifold reason
 
 Formally, this can be expressed as:
 
-<img src="/images/sample_selection_formula.png" style="max-width: 500px; width: 80%; float: left;">
+<img src="/images/sample_selection_formula.png" style="max-width: 500px; width: 50%; float: left;">
 
 where P(D) is the probability of an individual to be observed in our data, y* is the latent outcome an individual would observe once it is part of the data and x refers to the sensitive and protected attribute.
 
