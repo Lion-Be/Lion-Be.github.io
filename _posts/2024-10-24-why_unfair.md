@@ -1,7 +1,7 @@
 ---
 title: 'why is my model unfAIr?'
 date: 2024-10-24
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024-10-24-why_unfair/
 tags:
   - fairness in machine learning
   - algorithmic bias
@@ -26,25 +26,25 @@ However, as a large strand of literature has outlined, there are manifold reason
  
 
 <h1>Four Sources of Bias</h1>
-🔎 <h2>Bias in human decisions that the model is trained to replicate</h2>
+<h2>Bias in human decisions that the model is trained to replicate</h2>
 
-This is probably the most obvious source of bias and the one that is most often thought of. Any AI system that is trained to pick up and replicate complex patterns within a set of data can be biased if the underlying data generating process was biased itself. If, for example, a model is trained to approximate a target function that replicates human decision-making in the past with the goal of independently performing such decisions in the future, any human biases that are inherent to the data might be picked up by the model as well.
+🔎 This is probably the most obvious source of bias and the one that is most often thought of. Any AI system that is trained to pick up and replicate complex patterns within a set of data can be biased if the underlying data generating process was biased itself. If, for example, a model is trained to approximate a target function that replicates human decision-making in the past with the goal of independently performing such decisions in the future, any human biases that are inherent to the data might be picked up by the model as well.
 
 <strong>Example: Credit approval.</strong> Imagine a financial institution in which bank clerks have historically decided over the granting and conditions of credits or loans. Approvers unconsciously might have granted approval to members of a priviliged group with a higher propensity than to marginalized groups – a pattern that is picked up on replicated by your machine learning model.
 
  
 
-🔎 <h2>Bias through proxy attributes</h2>
+<h2>Bias through proxy attributes</h2>
 
-Even if the underlying data generating process includes biased decision-making that systematically disadvantages one marginalized group, the question remains how a machine learning model would pick up on this bias if the sensitive attribute defining the protected group like ethnicity is not included in the model. The answer is:  📢proxy attributes.
+🔎 Even if the underlying data generating process includes biased decision-making that systematically disadvantages one marginalized group, the question remains how a machine learning model would pick up on this bias if the sensitive attribute defining the protected group like ethnicity is not included in the model. The answer is: 📢proxy attributes.
 
 <strong>Example: Credit approval.</strong> Imagine a development team cautiously not including a protected attribute like ethnicity into their machine learning model, but providing the model with information on the individuals’ location such as district information or street address. As different marginalized groups do heavily form geographical clusters even within one city, information on the applicant’s ethnicity is hiddenly encoded in seemingly “neutral” socio-demographic attributes like city district. On the surface, a trained model may make decisions based on district-level information. What is actually happening is decision-making based on the protected attribute.
 
  
 
-🔎 <h2>Sample selection bias</h2>
+<h2>Sample selection bias</h2>
 
-We are now moving to the even more disguised sources of algorithmic bias – although their impact may be huge. Again, this sort of bias relates to the way our data set used for AI model training is constructed. Other than in the first source of bias, we do not refer to biased human decision-making! This source of bias can even exist when the decision-making process that the model is trained to replicate was completely fair! Sample selection bias refers to those individuals of the marginalized group that would have received a positive outcome on the outcome variable systematically appearing in our dataset less often than those marginalized individuals that would receive a negative outcome.
+🔎 We are now moving to the even more disguised sources of algorithmic bias – although their impact may be huge. Again, this sort of bias relates to the way our data set used for AI model training is constructed. Other than in the first source of bias, we do not refer to biased human decision-making! This source of bias can even exist when the decision-making process that the model is trained to replicate was completely fair! Sample selection bias refers to those individuals of the marginalized group that would have received a positive outcome on the outcome variable systematically appearing in our dataset less often than those marginalized individuals that would receive a negative outcome.
 
 Formally, this can be expressed as:
 
@@ -54,9 +54,9 @@ where P(D) is the probability of an individual to be observed in our data, y* is
 
  
 
-🔎 <h2>Bias through algorithmic objectives in model training</h2>
+<h2>Bias through algorithmic objectives in model training</h2>
 
-The final and most subtle form of bias may be the hardest to detect – and can again appear even in the absence of systematically different treatments of marginalized groups during the data generation and even in the absence of sample selection bias!
+🔎 The final and most subtle form of bias may be the hardest to detect – and can again appear even in the absence of systematically different treatments of marginalized groups during the data generation and even in the absence of sample selection bias!
 
 This type of bias simply refers to the fact that for model training, in almost every case, a loss function (that measures the global quality of our model) is used which simply sums up all aggregated prediction errors across all individuals. When the goal is to minimize the prediction errors as a whole and if the prevalence of members of the privileged group is (a lot) higher than the prevalence of members from the underprivileged group, the model will over-focus on error reduction within the majority rather than the minority group.
 
